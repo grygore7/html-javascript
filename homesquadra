@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border:4px solid black;
+}
+</style>
+  <meta charset="utf-8">
+  <meta name="generator" content="AlterVista - Editor HTML"/>
+  <title></title>
+</head>
+<body>
+<h1>RED LOCK</h1>
+<h2>Vincitrice della GOA7 LEAGUE</h2>
+<p>La squadra da battere. Vincono e convincono, sono i pi&ugrave; forti e lo hanno dimostrato nelle due competizioni che hanno affrontato.<br />Sono il roster pi&ugrave; equilibrato della GOA7, uniscono tecnica e fisicit&agrave; mettendo sul campo un gioco ordinato e concreto contornato da lampi tecnici dei singoli. Quadrati, umili dentro e spavaldi fuori.<br />L'allenatore della squadra &egrave; Mario Sturniolo.</p>
+<p><img src="/html/maxresdefault.jpg" alt="Red Lock" width="800" height="600" /></p>
+<p>GIOCATORI</p>
+<ul>
+<li><a href="http://mihalimatteogrigore.altervista.org/html/sergio.html">Sergio Cruz Pereira </a><span style="font-weight: bold;">Esterno</span> 11</li>
+<li><a href="http://mihalimatteogrigore.altervista.org/html/rohn.html">Rohn </a><span style="font-weight: bold;">Esterno</span> 7</li>
+<li><a href="http://mihalimatteogrigore.altervista.org/html/zaki.html">Zakinho </a><span style="font-weight: bold;">Esterno</span> 10</li>
+</ul>
+<p>Migliori Marcatori</p>
+<table style="border-collapse: collapse; width: 20%; border-color: #34495E; border-style: solid;">
+<tbody>
+<tr>
+<th style="background-color: #2fcc71;">Giocatore</th>
+<th style="background-color: #2fcc71;">Reti</th>
+</tr>
+<tr>
+<td>Sergio Cruz Pereira</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Valerio Ferrigno</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Luigi Festa</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Zakinho</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Abenezer Castiglioni</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+<p>Per le partite disputate nel campionato appena concluso ecco l'apposito link: <a href="http://mihalimatteogrigore.altervista.org/html/partite.html" >Calendario </a></p>
+</body>
+</html>
