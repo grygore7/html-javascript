@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="/html/fogliodistile.css" rel="stylesheet">
+<!-- 5 -->
+<style>
+body {
+font-family:helvetica;
+color:#444479;
+background-color:#B0EECA;
+}
+p {
+font-size:20px;
+}
+span {
+font-size:20px;
+}
+@media screen and (max-width: 800px) {
+    width: 100%;
+  }
+</style>
+  <!-- 1) struttura iniziale -->
+  <meta charset="utf-8">
+  <!-- 1) struttura iniziale -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="generator" content="AlterVista - Editor HTML"/>
+  <!-- 2) titolo -->
+  <title>Mihali Matteo Grigore</title>
+</head>
+<body>
+  <!-- 3) introduzione -->
+<h1>UMILE - TONY BOY</h1>
+  <!-- 3) introduzione -->
+<p>Umile è l'ultimo disco pubblicato da Tony Boy, giovane rapper di Padova che con i suoi testi è riuscito a raggiungere milioni di persone, attraversto rime taglienti e tematiche molto vicine ai giovani ascoltatori.</p>
+<!-- 4 -->
+<p><img src="https://th.bing.com/th/id/OIP.IwZtwn9qRX9yfdIvOiS2IAHaHa?rs=1&pid=ImgDetMain" alt="copertina" width="200" height="200" /></p>
+<!-- 4 -->
+<p><a href="https://genius.com/Tony-boy-storia-lyrics">Miglior canzone dell'album</a></p>
+<!-- 4 -->
+<p><img src="https://www.bing.com/images/search?view=detailV2&ccid=VhjHpZaH&id=49A4F6A699A636EFDA789DFE433C45CF0C1505C7&thid=OIP.VhjHpZaHiG4p8ir4e-PcJwHaEK&mediaurl=https%3a%2f%2fwww.hiphopstarztour.com%2fwp-content%2fuploads%2f2023%2f07%2ftonyboy-0623-coverpage.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5618c7a59687886e29f22af87be3dc27%3frik%3dxwUVDM9FPEP%252bnQ%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1920&q=umile+tonyboy&simid=608045311040295389&FORM=IRPRST&ck=D85F7375EB5CD99715DDC43610C1EE1C&selectedIndex=23&itb=0" alt="artista" width="200" height="200" /></p>
+<!-- 4 -->
+<p>La repack uscita recentemente contiene delle nuove canzoni che erano già presenti su <span><a href="https://www.bing.com/ck/a?!&&p=82d8c51dc0560781JmltdHM9MTcwMTU2MTYwMCZpZ3VpZD0wZDYxN2ZhYi1iYjcxLTY1N2UtMDc0YS02ZDEwYmExYzY0NjYmaW5zaWQ9NTIwMw&ptn=3&ver=2&hsh=3&fclid=0d617fab-bb71-657e-074a-6d10ba1c6466&psq=soundcloud&u=a1aHR0cHM6Ly9zb3VuZGNsb3VkLmNvbS9zb3VuZGNsb3Vk&ntb=1">soundcloud</a></span> ma che ora sono finalmente disponibili anche su Spotify e le altre piattaforme di streaming.</p>
+<!-- 4 -->
+<div style="background-color:grey;color:white;padding:11px;">
+  <h2>Featuring</h2>
+  <p>Kid Yugi, Atrie 5ive, Nerissima Serpe, Shiva e altri sono i feat presenti all'interno del disco.</p
+</div>
+<!-- 6 -->
+<p><cite>Going Hard</cite> di Tony Boy.</p>
+<!-- 7 + 12 -->
+<p><a href="http://mihalimatteogrigore.altervista.org/html/linkverfica1.html" target="_self">Storia di Tony Boy</a></p>
+<!-- 7 -->
+<p><a href="http://mihalimatteogrigore.altervista.org/html/linkverifica2.html" target="_blank">Stile</a></p>
+<!-- 8 -->
+<table style="width:100%">
+<tbody>
+<tr>
+<td><strong>Canzone</strong></td>
+<td><strong>Durata</strong></td>
+<td><strong>Ascolti</strong></td>
+</tr>
+<tr>
+<td>Storia</td>
+<td>2:28</td>
+<td><ul style="list-style-type:circle">
+        	<li>Francesco</li>
+            <li>Stasi</li>
+            </ul></td>
+</tr>
+<tr>
+<td>Umile</td>
+<td><ol type="1">
+	<li>Mentre il mondo crolla</li>
+    <li>Diretto al top</li>
+    <li>HOT</li>
+</ol>
+</td>
+<td>7005432</td>
+</tr>
+<tr>
+<td>Victoria</td>
+<td>3:34</td>
+<td>11023534</td>
+</tr>
+</tbody>
+</table>
+<!-- 9 -->
+<div class="container-fluid p-5 bg-primary text-white text-center">
+  <h2>Presenza sui social</h2>
+  <p>Molto presente sui social sia per quanto riguarda instagram che tiktok dove è ricorrente trovare suoi video in home.</p
+</div>
+<!-- 10 -->
+<p><iframe style="border-radius: 12px;" src="https://open.spotify.com/embed/track/2tlHNbWsOphjepsOTyv55Y?utm_source=generator&amp;theme=0" width="100%" height="230" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<!-- 9 -->
+<p id="testo">TONY</p>
+		<!-- bottone per cambiare stile testo -->
+        <button type="button" onclick="document.getElementById('testo').style.fontSize='69px'">Premi!</button>
+<!-- 13 -->
+<p>ECCO ALCUNI ESEMPI DI CARATTERI SPECIALI riguardanti la o: O&#768; O&#769; O&#771; O&#770;</p>
+<!-- 13 -->
+<p>&#x231B; &#x2757; &#x1F30D; &#x1F451;</p>
+<p>Frase sopra: Tra un po' di tempo conquisterà il mondo</p>
+<!-- 14 -->
+<form action="/action_page.php">
+  <label for="nome">Nome:</label><br>
+  <input type="text" id="nome" name="nome" autofocus><br>
+  <label for="cognome">Cognome:</label><br>
+  <input type="text" id="cognome" name="cognome"><br><br>
+  <input type="submit" value="Invio">
+</form>
+<!-- 14 -->
+<form action="/action_page.php">
+  <label for="username">Username:</label>
+  <input type="text" id="username" name="username" required>
+  <input type="submit" value="Invio">
+</form>
+<!-- 14 -->
+<form action="/action_page.php">
+  <label for="telefono">Inserire un numero di telefono:</label>
+  <input type="tel" id="telefono" name="telefono" placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"><br><br>
+  <input type="submit" value="Invio">
+  </form>
+  <!-- 15 -->
+  <img src="https://th.bing.com/th/id/OIP.2h1malDBuOTkI1pzt029oAHaEc?rs=1&pid=ImgDetMain" alt="Workplace" usemap="#workmap" width="400" height="379">
+
+<map name="workmap">
+  <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
+  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
+  <area shape="circle" coords="337,300,44" alt="Cup of coffee" href="coffee.htm">
+</map>
+</body>
+</html>
