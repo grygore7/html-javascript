@@ -1,0 +1,350 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Verifica di Bootstrap</title>
+    <style media="screen">
+    .centrato {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 25%;
+}
+
+    </style>
+  </head>
+  <body>
+  <!-- container principale -->
+    <div class="container-fluid">
+<div class="row">
+  <div class="col-12">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">La pasqua</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+<!-- navbar -->
+    <div class="collapse navbar-collapse" id="navbarColor01">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Home <span class="sr-only"></span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Documentazione Bootstrap</a>
+        </li>
+      </ul>
+      <form class="form-inline">
+        <button class="btn btn-outline-info my-2 my-sm-0" type="submit">Area Membri</button>
+      </form>
+    </div>
+  </nav>
+<br>
+  <!-- header centrato bello bello -->
+<header>
+  <h1 style="text-align:center;">PASQUA ORTODOSSA</h1>
+  <p style="text-align:center;">Easter in Romania happens to be an intriguing idea for an offbeat spring holiday. Given that Romanians have a rich Orthodox heritage, you can imagine how much of their culture is intertwined with this religious celebration.
+
+While they don’t greatly differ from other Slavic peoples when it comes to Easter festivities, Romanians know how to make this time of the year unforgettable.</p>
+          <div class="centrato">
+              <button type="button" class="btn btn-success">Scopri</button>
+          </div>
+
+</header>
+
+<hr>
+<!-- card group -->
+<div class="centrato">
+  <div class="card-group">
+    <div class="card" style="max-width: 350px; max-height:550px;" >
+      <img src="https://th.bing.com/th/id/R.4fa969ad26e28995324b9d87a04e8f94?rik=EasKy1O02DX34w&riu=http%3a%2f%2fwww.turismoitalianews.it%2fimages%2fstories%2fromania%2fPasquaOrtodossaUova3.jpg&ehk=I22NjKbggkdA0TCdvqSUPoijwpXGV%2bGL4O%2fpOp9ueA8%3d&risl=&pid=ImgRaw&r=0" class="card-img-top" alt="Uova colorate">
+      <div class="card-body">
+        <h5 class="card-title">Le uova colorate</h5>
+        <p class="card-text">
+<p>If an Easter egg doesn’t crack a whole year through, this ensures sacred protection for the family. But not any kind of eggs. But there’s more: Romanians made an art out of egg decoration and turned it into a fine handcrafting skill.</p>
+        <div class="centrato">
+          <button type="button" class="btn btn-outline-primary">Scopri di più</button>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="card" style="max-width: 350px; max-height:550px;" >
+      <img src="https://th.bing.com/th/id/OIP.HFFsrNzLYAXy-BS8ypv8FQHaFb?rs=1&pid=ImgDetMain" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Il Cozonac</h5>
+        <p class="card-text">Il cozonac è il dolce più conosciuto della Romania, dove non c’è festa senza che sia preparato e servito in tavola per la felicità degli ospiti. Si tratta in realtà di un invitante pasticcio dal ripieno composto da noci, cacao, zucchero e latte.</p>
+        
+        <div class="centrato">
+          <button type="button" class="btn btn-outline-primary">Scopri di più</button>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="card" style="max-width: 350px; max-height:550px;" >
+      <img src="https://th.bing.com/th/id/OIP.g5-IXSQFj6EkRV8zkpQ0pwHaFw?rs=1&pid=ImgDetMain" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Spritualità</h5>
+        <p class="card-text">For Romania – a heavily Christian-Orthodox country – Easter is a time of great joy and fraternization.
+To the Orthodox community, Easter is more important than Christmas, since it marks the greatest miracle performed by Jesus.</p>
+        
+        <div class="centrato">
+          <button type="button" class="btn btn-outline-primary">Scopri di più</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<hr><br>
+<!-- testo spaziato -->
+<div class="row justify-content-md-center">
+    <div class="col col-lg-6">
+      La Pasqua in Romania è una festività ricca di tradizioni profonde e significative, che mescolano elementi religiosi con usanze popolari tramandate da generazioni. Una delle pratiche più emblematiche è l'osservanza della settimana santa, durante la quale i fedeli partecipano a servizi religiosi speciali nelle chiese ortodosse di tutto il paese.
+
+Un aspetto distintivo della Pasqua rumena è l'importanza data alla preparazione dei cibi tradizionali. Le famiglie si riuniscono per cucinare e condividere pasti abbondanti, con piatti come l'ouă roșii (uova rosse), simbolo di vita e rinascita, e la cozonac, un dolce pane dolce arricchito con noci, cioccolato o frutta candita. Durante la cena pasquale, è consuetudine benedire il cibo e condividere un primo boccone con il vicino, in segno di generosità e comunità.
+
+Oltre alle celebrazioni religiose e culinarie, la Pasqua in Romania vede anche l'organizzazione di eventi folkloristici e processioni tradizionali. Le persone vestite con costumi colorati si riuniscono per ballare, cantare e partecipare a giochi e concorsi legati alla festività pasquale. Queste manifestazioni non solo rafforzano il legame con le radici culturali, ma contribuiscono anche a mantenere vive le tradizioni per le generazioni future.
+
+In sintesi, la Pasqua in Romania è un momento di profonda spiritualità, convivialità e gioia condivisa. Attraverso le sue pratiche religiose e le sue usanze secolari, questa festività continua a svolgere un ruolo centrale nella vita e nell'identità della nazione rumena.
+    </div>
+
+    <div class="col col-lg-6">
+      In Romania, la Pasqua è una festa intrisa di tradizioni millenarie che riflettono la ricca storia e la profonda devozione del popolo rumeno. Le celebrazioni pasquali iniziano con la Grande Quaresima, un periodo di digiuno e penitenza che prepara i fedeli per la gioiosa risurrezione di Cristo.
+
+Una delle tradizioni più emblematiche della Pasqua rumena è la decorazione delle uova, un'arte conosciuta come "încondeierea ouălor". Le uova vengono colorate e decorate con motivi intricati e simbolici, rappresentanti la vita, la fertilità e la protezione dalle influenze negative. Queste opere d'arte sono scambiate tra amici e parenti come segno di affetto e buon auspicio.
+
+La Duminica Mare, o Domenica di Pasqua, è il culmine delle celebrazioni, con le chiese che si riempiono di fedeli per la messa di resurrezione. Dopo il servizio religioso, le famiglie si riuniscono per condividere un pasto abbondante, nel quale non possono mancare l'agnello arrosto, simbolo sacrificale della Pasqua cristiana, e il pasca, un dolce pane pasquale arricchito con formaggio dolce.
+
+Oltre alle pratiche religiose, la Pasqua in Romania è accompagnata da una serie di usanze popolari, tra cui il gioco dell'agnello, una tradizione in cui i bambini si divertono a cercare e raccogliere le uova nascoste nei giardini. Questi momenti di gioia e festa rafforzano il senso di comunità e appartenenza tra le persone.
+
+In conclusione, la Pasqua in Romania è un'occasione speciale in cui la fede, la famiglia e la cultura si fondono in un'unica celebrazione. Attraverso le sue tradizioni radicate nella storia e nel folklore, questa festa continua a essere un pilastro della vita sociale e spirituale del popolo rumeno.
+    </div>
+  </div>
+<br><br>
+<!-- tabella -->
+
+      <div class="row">
+        <div class="col-sm-4">
+          <ul class="list-group">
+      <li class="list-group-item"><a href="https://www.google.com/">Link vari</a></li>
+      <li class="list-group-item"><a href="https://www.google.com/">Link vari</a></li>
+      <li class="list-group-item"><a href="https://www.google.com/">Link vari</a></li>
+    </ul>
+        </div>
+        <div class="col-sm-4">
+          <ul class="list-group">
+      <li class="list-group-item"><a href="https://www.google.com/">Link vari</a></li>
+      <li class="list-group-item"><a href="https://www.google.com/">Link vari</a></li>
+      <li class="list-group-item"><a href="https://www.google.com/">Link vari</a></li>
+    </ul>
+        </div>
+        <div class="col-sm-4">
+          <ul class="list-group">
+      <li class="list-group-item"><a href="https://www.google.com/">Link vari</a></li>
+      <li class="list-group-item"><a href="https://www.google.com/">Link vari</a></li>
+      <li class="list-group-item"><a href="https://www.google.com/">Link vari</a></li>
+    </ul>
+        </div>
+
+      </div>
+<br><br>
+  <!-- card group -->
+  <div class="row">
+      <div class="col-12">
+        <div class="card-group">
+          <div class="card text-center" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Titolo</h5>
+            <p class="card-text">Contenuto della card</p>
+            <a href="#" class="btn btn-primary">VAII</a>
+          </div>
+        </div>
+        <div class="card text-center" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Titolo</h5>
+            <p class="card-text">Contenuto della card</p>
+            <a href="#" class="btn btn-primary">VAII</a>
+          </div>
+        </div>
+        <div class="card text-center" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Titolo</h5>
+            <p class="card-text">Contenuto della card</p>
+            <a href="#" class="btn btn-primary">VAII</a>
+          </div>
+        </div>
+        <div class="card text-center" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Titolo</h5>
+            <p class="card-text">Contenuto della card</p>
+            <a href="#" class="btn btn-primary">VAII</a>
+          </div>
+        </div>
+        </div>
+        <div class="card-group">
+          <div class="card text-center" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Titolo</h5>
+            <p class="card-text">Contenuto della card</p>
+            <a href="#" class="btn btn-primary">VAII</a>
+          </div>
+        </div>
+        <div class="card text-center" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Titolo</h5>
+            <p class="card-text">Contenuto della card</p>
+            <a href="#" class="btn btn-primary">VAII</a>
+          </div>
+        </div>
+        <div class="card text-center" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Titolo</h5>
+            <p class="card-text">Contenuto della card</p>
+            <a href="#" class="btn btn-primary">VAII</a>
+          </div>
+        </div>
+        <div class="card text-center" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Titolo</h5>
+            <p class="card-text">Contenuto della card</p>
+            <a href="#" class="btn btn-primary">VAII</a>
+          </div>
+        </div>
+        </div>
+      </div>
+
+    </div>
+<br>
+<hr>
+<br><br>
+
+<!-- parte articolo -->
+<div class="row">
+      <div class="col">
+        <h1>Le migliori tradizioni</h1>
+        <ul class="list-group">
+          <li class="list-group-item">Rottura delle uova</li>
+          <li class="list-group-item">Bere il vino fresh</li>
+          <li class="list-group-item">Andare in chiesa  </li>
+        </ul>
+      </div>
+      <div class="col-6">
+        <h1>Ultimi Articoli</h1>
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">Vacanze economiche</h5>
+            <p class="card-text">Ecco come si puo fare per andare in vacanza a soli 15 euro in romania</p>
+            <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+  Vai all'articolo
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Titolo</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        Un recente avvistamento alieno ha scosso una tranquilla cittadina, lasciando i residenti sconcertati e desiderosi di risposte. Testimoni oculari descrivono luci brillanti e movimenti sfuggenti nel cielo notturno, alimentando speculazioni su visite extraterrestri. Gli esperti sono divisi tra scetticismo e curiosità, mentre il mistero rimane irrisolto.
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Chiudi</button>
+        <button type="button" class="btn btn-primary">Salva cambiamenti</button>
+      </div>
+    </div>
+  </div>
+</div>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <h1>Articolo Popolare</h1>
+        <div class="card">
+          <div class="card-body">
+             <h5 class="card-title">Avvistamenti shock a Bareggio</h5>
+             <p class="card-text">Un uomo molto nero è stato rintracciato al parco arcadia mentre stava facendo una corsa mattutina</p>
+             <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+  Vai all'articolo
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Titolo</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        Le vacanze sono un momento di relax e scoperta, un'occasione per staccare dalla routine quotidiana e immergersi in nuove esperienze. Tuttavia, per molti, il costo dei viaggi può rappresentare un ostacolo significativo. Ecco perché le vacanze low cost stanno diventando sempre più popolari, offrendo un'opportunità per esplorare il mondo senza svuotare il portafoglio.
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Chiudi</button>
+        <button type="button" class="btn btn-primary">Salva cambiamenti</button>
+      </div>
+    </div>
+  </div>
+</div>
+          </div>
+        </div>
+      </div>
+</div>
+<br><hr><br><br>
+<h2>9</h2>
+<!-- carosello -->
+
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://th.bing.com/th/id/R.07585dad72fa9f202f909cb626a2cfcd?rik=RfEYcFa8ecuQKg&pid=ImgRaw&r=0" class="d-block w-100"alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="https://images6.alphacoders.com/689/thumb-1920-689198.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="https://thumbs.dreamstime.com/b/paesaggio-ammirevole-della-campagna-di-estate-vicino-brasov-la-transilvania-romania-europa-destinazione-fantastica-viaggio-143564601.jpg" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+  </div>
+  <div class="col-1">
+
+  </div>
+
+</div>
+      <!-- nav bar -->
+
+</div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
